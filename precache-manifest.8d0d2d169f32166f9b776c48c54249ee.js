@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1d972df61a35ec174c8fbd36c30063e3",
+    "revision": "a28458a24844b91feb236e04792616de",
     "url": "/covermaker/index.html"
   },
   {

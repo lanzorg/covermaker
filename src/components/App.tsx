@@ -7,7 +7,7 @@ import { Preview } from "./Preview";
 
 const GlobalStyles = createGlobalStyle`
   *, *:before, *:after {
-    box-sizing: inherit;
+    box-sizing: border-box;
   }
   body {
     margin: 0;

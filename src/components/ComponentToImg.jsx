@@ -1,6 +1,13 @@
 import React, { useRef } from "react";
+import { Box } from "@material-ui/core";
+import Button from "@material-ui/core/Button";
+import ButtonGroup from "@material-ui/core/ButtonGroup";
 import styled from "styled-components";
-import { exportComponentAsPNG } from "react-component-export-image";
+import {
+  exportComponentAsJPEG,
+  exportComponentAsPDF,
+  exportComponentAsPNG,
+} from "react-component-export-image";
 
 const Container = styled.div`
   display: flex;
@@ -9,27 +16,24 @@ const Container = styled.div`
   align-items: center;
 `;
 
-const DownloadButton = styled.button`
-  background: #15d798;
-  border-radius: 5px;
-  border: 0;
-  color: #ffffff;
-  display: inline-block;
-  font-size: 1.2rem;
-  font-weight: bold;
-  margin: 2rem 0 0 0;
-  padding: 20px 30px;
-  text-align: center;
-`;
-
 export const ComponentToImg = ({ children }) => {
   const componentRef = useRef();
   return (
     <Container>
       <div ref={componentRef}>{children}</div>
-      <DownloadButton onClick={() => exportComponentAsPNG(componentRef)}>
-        Download as PNG
-      </DownloadButton>
+      <Box mt={3}>
+        <ButtonGroup disableElevation variant="contained" color="primary">
+          <Button onClick={() => exportComponentAsJPEG(componentRef)}>
+            JPG
+          </Button>
+          <Button onClick={() => exportComponentAsPDF(componentRef)}>
+            PDF
+          </Button>
+          <Button onClick={() => exportComponentAsPNG(componentRef)}>
+            PNG
+          </Button>
+        </ButtonGroup>
+      </Box>
     </Container>
   );
 };

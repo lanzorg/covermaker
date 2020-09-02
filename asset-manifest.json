@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/covermaker/static/js/main.c87fdd22.chunk.js",
+    "main.js.map": "/covermaker/static/js/main.c87fdd22.chunk.js.map",
+    "runtime-main.js": "/covermaker/static/js/runtime-main.920adc40.js",
+    "runtime-main.js.map": "/covermaker/static/js/runtime-main.920adc40.js.map",
+    "static/js/2.6fcea19b.chunk.js": "/covermaker/static/js/2.6fcea19b.chunk.js",
+    "static/js/2.6fcea19b.chunk.js.map": "/covermaker/static/js/2.6fcea19b.chunk.js.map",
+    "index.html": "/covermaker/index.html",
+    "precache-manifest.7b01f543188fec37fc362a233fe97121.js": "/covermaker/precache-manifest.7b01f543188fec37fc362a233fe97121.js",
+    "service-worker.js": "/covermaker/service-worker.js",
+    "static/js/2.6fcea19b.chunk.js.LICENSE.txt": "/covermaker/static/js/2.6fcea19b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.920adc40.js",
+    "static/js/2.6fcea19b.chunk.js",
+    "static/js/main.c87fdd22.chunk.js"
+  ]
+}

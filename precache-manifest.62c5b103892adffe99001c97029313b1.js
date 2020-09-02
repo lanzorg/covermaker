@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f68bb2517565cd377dbb2cf45766934",
+    "revision": "ce819ae83ca9879b25a52b4224284592",
     "url": "/covermaker/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covermaker/static/js/2.6fcea19b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cdb1359c8402611a6ca2",
-    "url": "/covermaker/static/js/main.c87fdd22.chunk.js"
+    "revision": "55bb07b36fea40fcdb96",
+    "url": "/covermaker/static/js/main.76f68119.chunk.js"
   },
   {
     "revision": "3df6bfb82d7f1ebb515d",

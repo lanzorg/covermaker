@@ -6,8 +6,11 @@ import { Sidebar } from "./Sidebar";
 import { Preview } from "./Preview";
 
 const GlobalStyles = createGlobalStyle`
-  *, *:before, *:after {
+  html {
     box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
   }
   body {
     margin: 0;

@@ -2,7 +2,7 @@
   "name": "covermaker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://lanzorg.github.io/covermaker",
+  "homepage": "https://lanzorg.github.io/covermaker",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",

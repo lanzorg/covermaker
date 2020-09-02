@@ -39,7 +39,7 @@ export const Sidebar: React.FC = () => {
     <Container>
       <h1>CM</h1>
 
-      <label htmlFor="text">TEXT</label>
+      <label htmlFor="text">Text</label>
       <textarea
         name="text"
         value={coverSettings.text}

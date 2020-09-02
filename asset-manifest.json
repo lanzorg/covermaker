@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/covermaker/static/js/main.496d3777.chunk.js",
-    "main.js.map": "/covermaker/static/js/main.496d3777.chunk.js.map",
+    "main.js": "/covermaker/static/js/main.0c7fda87.chunk.js",
+    "main.js.map": "/covermaker/static/js/main.0c7fda87.chunk.js.map",
     "runtime-main.js": "/covermaker/static/js/runtime-main.920adc40.js",
     "runtime-main.js.map": "/covermaker/static/js/runtime-main.920adc40.js.map",
-    "static/js/2.b678fa3d.chunk.js": "/covermaker/static/js/2.b678fa3d.chunk.js",
-    "static/js/2.b678fa3d.chunk.js.map": "/covermaker/static/js/2.b678fa3d.chunk.js.map",
+    "static/js/2.d9cbf271.chunk.js": "/covermaker/static/js/2.d9cbf271.chunk.js",
+    "static/js/2.d9cbf271.chunk.js.map": "/covermaker/static/js/2.d9cbf271.chunk.js.map",
     "index.html": "/covermaker/index.html",
-    "precache-manifest.8d0d2d169f32166f9b776c48c54249ee.js": "/covermaker/precache-manifest.8d0d2d169f32166f9b776c48c54249ee.js",
+    "precache-manifest.09854a14bbd917369bd2bfd490f5c174.js": "/covermaker/precache-manifest.09854a14bbd917369bd2bfd490f5c174.js",
     "service-worker.js": "/covermaker/service-worker.js",
-    "static/js/2.b678fa3d.chunk.js.LICENSE.txt": "/covermaker/static/js/2.b678fa3d.chunk.js.LICENSE.txt",
+    "static/js/2.d9cbf271.chunk.js.LICENSE.txt": "/covermaker/static/js/2.d9cbf271.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/covermaker/static/media/logo.04f1f264.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.920adc40.js",
-    "static/js/2.b678fa3d.chunk.js",
-    "static/js/main.496d3777.chunk.js"
+    "static/js/2.d9cbf271.chunk.js",
+    "static/js/main.0c7fda87.chunk.js"
   ]
 }

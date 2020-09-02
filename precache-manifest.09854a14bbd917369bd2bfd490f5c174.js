@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a28458a24844b91feb236e04792616de",
+    "revision": "537893139d43ea32eafe0f18cb9eecfc",
     "url": "/covermaker/index.html"
   },
   {
-    "revision": "c054bda3e42741c958dd",
-    "url": "/covermaker/static/js/2.b678fa3d.chunk.js"
+    "revision": "5141029de6fe43d918f8",
+    "url": "/covermaker/static/js/2.d9cbf271.chunk.js"
   },
   {
     "revision": "3a58b66155a913ba191e86b5cf1a2047",
-    "url": "/covermaker/static/js/2.b678fa3d.chunk.js.LICENSE.txt"
+    "url": "/covermaker/static/js/2.d9cbf271.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "895d336992f70601e39e",
-    "url": "/covermaker/static/js/main.496d3777.chunk.js"
+    "revision": "c8ba7d86a6a6e81efafd",
+    "url": "/covermaker/static/js/main.0c7fda87.chunk.js"
   },
   {
     "revision": "3df6bfb82d7f1ebb515d",
